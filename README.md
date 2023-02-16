@@ -2,6 +2,6 @@
 
 ## João Gabriel Grande
 
-### Tecnologias: PHP - HTML - CSS - JavaScript
+### Tecnologias: PHP - MySql - HTML - CSS - JavaScript
 
-Projeto realizado na faculdade, um site com funcionamento de Painel de Ccontrole. conta com Tokens de validação, Permissões, estrutura PDO e Arquitetura MVC 
+Projeto realizado na faculdade, um site com funcionamento de Painel de Ccontrole. conta com Tokens de validação, Permissões, estrutura PDO e Arquitetura MVC.
